@@ -6,6 +6,7 @@
     "languageLogo": "<FaReact />",
     "image": "/images/projects/movie-search/movie-search-1.png",
     "webpage": "https://clever-hypatia-95f748.netlify.app/",
+    "github": "https://github.com/BensDevDe/Movie-Search",
 
     "detailImage1": "/images/projects/movie-search/movie-search-1.png",
     "detailImage2": "/images/projects/movie-search/movie-search-2.png",
@@ -22,6 +23,7 @@
     "languageLogo": "FaReact",
     "image": "/images/projects/portfolio-page/portfolio-page1.png",
     "webpage": "https://webogies.com/",
+    "github": "https://github.com/BensDevDe/Portfolio",
 
     "detailImage1": "/images/projects/portfolio-page/portfolio-page1.png",
     "detailImage2": "/images/projects/portfolio-page/portfolio-page2.png",
@@ -39,6 +41,7 @@
     "languageLogo": "<FaReact />",
     "image": "/images/projects/todo-app/todo-app1.png",
     "webpage": "https://xenodochial-mahavira-e4828c.netlify.app/",
+    "github": "https://github.com/BensDevDe/To-Do-App",
 
     "detailImage1": "/images/projects/todo-app/todo-app1.png",
     "detailImage2": "/images/projects/todo-app/todo-app2.png",
