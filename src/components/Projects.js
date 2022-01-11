@@ -141,7 +141,11 @@ const Projects = ({ projects }) => {
 
                       <div>
                         <button>
-                          <a target="_blank" href={item.webpage} rel="noreferrer">
+                          <a
+                            target="_blank"
+                            href={item.webpage}
+                            rel="noreferrer"
+                          >
                             <MdComputer /> <span> Visit</span>
                           </a>
                         </button>
@@ -151,7 +155,7 @@ const Projects = ({ projects }) => {
                         <button>
                           <a
                             target="_blank"
-                            href="https://github.com/"
+                            href={item.github}
                             rel="noreferrer"
                           >
                             <FaGithub />

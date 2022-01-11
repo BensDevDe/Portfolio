@@ -115,7 +115,11 @@ const Project = ({ selectedProject }) => {
 
             <div>
               <button>
-                <a target="_blank" href="https://github.com/" rel="noreferrer">
+                <a
+                  target="_blank"
+                  href={selectedProject.github}
+                  rel="noreferrer"
+                >
                   <FaGithub />
                   <span>GitHub</span>
                 </a>
