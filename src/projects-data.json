@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Movie-Search",
+    "language": "Javascript",
+    "languageLogo": "<FaReact />",
+    "image": "/images/projects/movie-search/movie-search-1.png",
+    "webpage": "https://clever-hypatia-95f748.netlify.app/",
+
+    "detailImage1": "/images/projects/movie-search/movie-search-1.png",
+    "detailImage2": "/images/projects/movie-search/movie-search-2.png",
+    "detailImage3": "/images/projects/movie-search/movie-search-3.png",
+    "detailImage4": "/images/projects/movie-search/movie-search-2.png",
+    "description": "Elit proident est eu swine, lorem chislic id quis ground round tail t-bone.  In ea non, sausage esse sed filet mignon meatball voluptate strip steak rump chicken dolore tenderloin.  Ut deserunt officia labore venison, beef ribs esse incididunt non picanha shoulder jowl et in laborum.  Strip steak ut frankfurter officia boudin ribeye labore nulla.  Ham hock eu boudin brisket porchetta incididunt aute.  Pork belly chuck pancetta, excepteur ut sed ribeye ut consectetur ball tip in ut qui hamburger.  Pariatur in incididunt, pork chop pork belly est voluptate bresaola nostrud spare ribs eiusmod tempor picanha.",
+    "technologies": "",
+    "launch": ""
+  },
+  {
+    "id": 2,
+    "name": "Portfolio-Page",
+    "language": "ReactJS",
+    "languageLogo": "FaReact",
+    "image": "/images/projects/portfolio-page/portfolio-page1.png",
+    "webpage": "https://webogies.com/",
+
+    "detailImage1": "/images/projects/portfolio-page/portfolio-page1.png",
+    "detailImage2": "/images/projects/portfolio-page/portfolio-page2.png",
+    "detailImage3": "/images/projects/portfolio-page/portfolio-page3.png",
+    "detailImage4": "/images/projects/portfolio-page/portfolio-page4.png",
+    "description": "Elit proident est eu swine, lorem chislic id quis ground round tail t-bone.  In ea non, sausage esse sed filet mignon meatball voluptate strip steak rump chicken dolore tenderloin.  Ut deserunt officia labore venison, beef ribs esse incididunt non picanha shoulder jowl et in laborum.  Strip steak ut frankfurter officia boudin ribeye labore nulla.  Ham hock eu boudin brisket porchetta incididunt aute.  Pork belly chuck pancetta, excepteur ut sed ribeye ut consectetur ball tip in ut qui hamburger.  Pariatur in incididunt, pork chop pork belly est voluptate bresaola nostrud spare ribs eiusmod tempor picanha.",
+    "technologies": "",
+    "launch": ""
+  },
+
+  {
+    "id": 3,
+    "name": "Todo-App",
+    "language": "Javascript",
+    "languageLogo": "<FaReact />",
+    "image": "/images/projects/todo-app/todo-app1.png",
+    "webpage": "https://xenodochial-mahavira-e4828c.netlify.app/",
+
+    "detailImage1": "/images/projects/todo-app/todo-app1.png",
+    "detailImage2": "/images/projects/todo-app/todo-app2.png",
+    "detailImage3": "/images/projects/todo-app/todo-app3.png",
+    "detailImage4": "/images/projects/todo-app/todo-app4.png",
+    "description": "Elit proident est eu swine, lorem chislic id quis ground round tail t-bone.  In ea non, sausage esse sed filet mignon meatball voluptate strip steak rump chicken dolore tenderloin.  Ut deserunt officia labore venison, beef ribs esse incididunt non picanha shoulder jowl et in laborum.  Strip steak ut frankfurter officia boudin ribeye labore nulla.  Ham hock eu boudin brisket porchetta incididunt aute.  Pork belly chuck pancetta, excepteur ut sed ribeye ut consectetur ball tip in ut qui hamburger.  Pariatur in incididunt, pork chop pork belly est voluptate bresaola nostrud spare ribs eiusmod tempor picanha.",
+    "technologies": "",
+    "launch": ""
+  }
+]
