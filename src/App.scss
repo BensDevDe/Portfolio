@@ -56,7 +56,7 @@ body {
     }
 
     @media screen and (max-width: 1024px) {
-      width: 80vw;
+      width: 85vw;
       // height: 20vh;
 
       display: flex;
@@ -65,8 +65,9 @@ body {
 
       margin: 0 auto;
       .navbar-logo {
-        width: 90%;
-        margin-top: 6px;
+        width: 100%;
+        margin-top: 7px;
+        margin-left: -5px;
       }
       p {
         color: white;
@@ -1028,7 +1029,7 @@ body {
           font-size: 1.4em;
 
           width: 100%;
-          height: 30%;
+          height: 40%;
 
           margin-left: 25px;
 
@@ -1079,7 +1080,7 @@ body {
         align-items: center;
 
         margin: 0 auto;
-        margin-top: 50px;
+        margin-top: 40px;
 
         .about-description {
           height: 350px;
@@ -1186,7 +1187,7 @@ body {
         align-items: flex-start;
 
         margin: 0 auto;
-        margin-top: 50px;
+        margin-top: 20px;
         .projects-container {
           width: 80vw;
           height: 100%;
@@ -1483,7 +1484,7 @@ body {
       //CONTACT++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
       .contact-container {
-        width: 95vw;
+        width: 97vw;
         height: 100%;
         margin: 0 auto;
         margin-top: 50px;
