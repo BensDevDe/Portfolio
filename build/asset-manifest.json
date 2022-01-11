@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0768b75d.css",
+    "main.js": "/static/js/main.41fdd05e.js",
+    "static/js/787.1c0b2286.chunk.js": "/static/js/787.1c0b2286.chunk.js",
+    "static/media/bfinal.jpg": "/static/media/bfinal.93691f92d85b667b6a5c.jpg",
+    "static/media/ben3-color.jpg": "/static/media/ben3-color.5771de2564565a526532.jpg",
+    "index.html": "/index.html",
+    "main.0768b75d.css.map": "/static/css/main.0768b75d.css.map",
+    "main.41fdd05e.js.map": "/static/js/main.41fdd05e.js.map",
+    "787.1c0b2286.chunk.js.map": "/static/js/787.1c0b2286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0768b75d.css",
+    "static/js/main.41fdd05e.js"
+  ]
+}
